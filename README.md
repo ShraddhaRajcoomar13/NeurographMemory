@@ -1,4 +1,4 @@
-```markdown
+
 # Neurograph
 
 > A persistent, weighted knowledge graph that serves as **long-term memory for AI agents**.
