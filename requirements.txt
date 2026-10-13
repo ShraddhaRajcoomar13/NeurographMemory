@@ -1,0 +1,4 @@
+echo spacy>=3.8> requirements.txt
+echo networkx>=3.7>> requirements.txt
+echo matplotlib>=3.11>> requirements.txt
+echo openai>=1.50>> requirements.txt
